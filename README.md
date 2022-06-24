@@ -6,7 +6,8 @@ such maske für github profile
 
 ---
 
-![Conzept scrabble](planning/concept.png)
+![searchbar](./img/Bildschirmfoto%20von%202022-06-24%2011-38-31.png)
+![search result](./img/Bildschirmfoto%20von%202022-06-24%2011-39-04.png)
 
 #### Navigation
 
